@@ -1,0 +1,18 @@
+
+[
+    {
+        id: 1,
+        "name": 'Lee',
+        adress: 'Tashkent'
+    },
+    {
+        id: 2,
+        name: 'Doni',
+        adress: 'NYC'
+    },
+    {
+        id: 3,
+        name: 'ABB',
+        adress: 'BAA'
+    }
+]
